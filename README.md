@@ -20,7 +20,7 @@ In an age where every software project is accompanied by a 400-word self-congrat
 ---
 
 ### 🧮 The Magnum Opus: [SG Child Cost & Support Calculator](https://YOUR-APP-URL-HERE.com)
-*(Repository: [`sg-parenting-costs`](https://github.com/YOUR-GITHUB-USERNAME/sg-parenting-costs))*
+*(Repository: [`sg-parenting-costs`](https://github.com/vectorforge21/sg-parenting-costs))*
 
 Singaporeans are routinely paralyzed by sensational tabloid headlines declaring that *"It costs $1,000,000 to raise a child in Singapore!"*—usually published by an insurer trying to sell you an investment-linked policy (ILP).
 
@@ -40,7 +40,7 @@ This application is completely free, open-source, and hosted for public benefit.
 
 If this simulator brought you peace of mind, resolved an argument at the dinner table, or saved your marriage from a late-night Excel spreadsheet meltdown:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Kopi--O%20Fund-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Kopi--O%20Fund-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/vectorforge23)
 
 > **A note on contributions:**  
 > Donated funds go exclusively towards coffee shop sustenance (kopi peng / teh o kosong), domain registration, and hosting costs so the tool can remain free and independent for everyone. No private jets, no crypto investments, no marketing campaigns. If money is tight, spend it on your family instead.
@@ -49,8 +49,8 @@ If this simulator brought you peace of mind, resolved an argument at the dinner 
 
 ### 📡 Cosmic Frequencies & Dispatches
 
-- **𝕏 / Twitter:** [@YOUR_X_HANDLE](https://x.com/YOUR_X_HANDLE) — Sporadic transmissions on local policy, economic realities, void deck philosophy, and the Dao of navigating modern Singapore.
-- **GitHub Discussions / Issues:** Have an updated statutory subsidy rule or benchmark adjustment? File an issue or PR on [`sg-parenting-costs`](https://github.com/YOUR-GITHUB-USERNAME/sg-parenting-costs).
+- **𝕏 / Twitter:** [@vectorforge21](https://x.com/vectorforge21) — Sporadic transmissions on local policy, economic realities, void deck philosophy, and the Dao of navigating modern Singapore.
+- **GitHub Discussions / Issues:** Have an updated statutory subsidy rule or benchmark adjustment? File an issue or PR on [`sg-parenting-costs`](https://github.com/vectorforge21/sg-parenting-costs).
 
 ---
 
