@@ -40,7 +40,7 @@ This application is completely free, open-source, and hosted for public benefit.
 
 If this simulator brought you peace of mind, resolved an argument at the dinner table, or saved your marriage from a late-night Excel spreadsheet meltdown:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Kopi--O%20Fund-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/vectorforge23)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Kopi--O%20Fund-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/vectorforge21)
 
 > **A note on contributions:**  
 > Donated funds go exclusively towards coffee shop sustenance (kopi peng / teh o kosong), domain registration, and hosting costs so the tool can remain free and independent for everyone. No private jets, no crypto investments, no marketing campaigns. If money is tight, spend it on your family instead.
